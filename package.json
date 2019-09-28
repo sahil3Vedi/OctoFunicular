@@ -1,0 +1,29 @@
+{
+  "name": "elytra",
+  "version": "1.0.0",
+  "description": "A grid based CSS Framework",
+  "main": "index.html",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil3Vedi/elytra.git"
+  },
+  "keywords": [
+    "CSS",
+    "Framework",
+    "Elytra",
+    "Grid"
+  ],
+  "author": "sahil3vedi",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/sahil3Vedi/elytra/issues"
+  },
+  "homepage": "https://github.com/sahil3Vedi/elytra#readme"
+}
